@@ -20,6 +20,11 @@ You are free to use whatever file you want. Here is a description of how they ar
 - Every file is focused on one specific error in the selected language (currently only danish - we would like to expand this to other nordics languages). 
 - Every file has a wrong version of the sentence on the left and a correct version of the sentence on the right.
 
+## Load a dataset:
+```
+df = pd.read_csv("present_tense.csv", sep="|")
+```
+
 ## How has the datasets been gathered?
 - Wikipedia
 - Made up text
