@@ -24,3 +24,9 @@ You are free to use whatever file you want. Here is a description of how they ar
 - Wikipedia
 - Made up text
 - Internal documents
+
+## More information about each dataset:
+
+**Nutids-r**:
+- Every verb is written in present tense, but has two tense: present infinitive (navneform, infinitiv) and present tense (nutid).
+- On the left the verb is written in the wrong tense and on the right in the right tense regardless of the issue being a nutids-r.
