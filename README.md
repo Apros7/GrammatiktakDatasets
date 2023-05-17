@@ -12,8 +12,9 @@ This is not a set of training data. There exist a large number of huge nordic da
 We felt that the danish NLP community could benefit from having a high-quality, human annotated dataset to use when testing NLP models or for other usage. 
 
 We strive to make the datasets:
-- Of extremely high quality (if you find a mistake, let us know).
-- Large, so that the test size is big enough for you to get a reasonable accurate estimate of your models performance.
+- Of extremely **high quality** (if you find a mistake, let us know).
+- **Large**, so that the test size is big enough for you to get a reasonable accurate estimate of your models performance.
+- **Broad** to capture different themes, sentence constructions and lengths.
 
 ## How to use?
 You are free to use whatever file you want. Here is a description of how they are constructed: 
