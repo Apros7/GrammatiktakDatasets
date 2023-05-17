@@ -30,6 +30,7 @@ df = pd.read_csv("present_tense.csv", sep="|")
 - Wikipedia
 - Made up text
 - Internal documents
+- [Danish gigaword](https://gigaword.dk/)
 
 ## More information about each dataset:
 
