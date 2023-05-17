@@ -36,3 +36,6 @@ df = pd.read_csv("present_tense.csv", sep="|")
 **Nutids-r**:
 - Every verb is written in present tense, but has two tense: present infinitive (navneform, infinitiv) and present tense (nutid).
 - On the left the verb is written in the wrong tense and on the right in the right tense regardless of the issue being a nutids-r.
+
+**Determinannt**
+- Displays wrong use of: en/et, den/det
