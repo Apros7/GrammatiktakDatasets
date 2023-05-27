@@ -25,7 +25,7 @@ You are free to use whatever file you want. Here is a description of how they ar
 
 ## Load a dataset:
 ```
-df = pd.read_csv("present_tense.csv", sep="|")
+df = pd.read_csv("present_tense.csv", encoding="UTF-8", sep="|")
 ```
 
 ## How has the datasets been gathered?
