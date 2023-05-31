@@ -33,3 +33,6 @@ df = pd.read_csv("present_tense.csv", encoding="UTF-8", sep="|")
 - Made up text
 - Internal documents
 - [Danish gigaword](https://gigaword.dk/)
+
+## In the works..
+- Danish Named Entity Recognition

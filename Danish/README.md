@@ -7,3 +7,7 @@
 **wikipedia_spelling_errors**
 - Webscrabed and cleaned from [wikipedia](https://da.wikipedia.org/wiki/Wikipedia:Almindelige_stavefejl)
 - As wikipedia descibes, please notice: Not all occurrences of these words may be spelling errors. For instance, if the word is in a song or book title or part of a proper name for a person, city, or company, it should be left as intended by the author. So, think twice before correcting these spelling errors.
+
+**danish_ner**
+- A large danish NER train, test and validation danish can be found [here](https://huggingface.co/datasets/dane/viewer/default)
+- The intention of this is to have another dataset to test NER models. The more datasets avaliable for testing, the easier it is to find tendencies in the models mistakes and get a appropriate accuracy without having to worry about being too impacted by one datasets biases.
