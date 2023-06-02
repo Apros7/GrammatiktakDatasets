@@ -1,7 +1,7 @@
 ## More information about each dataset:
 
 <details>
-<summary>present_tense</summary>
+<summary><h3>present_tense<h3></summary>
 
 
 - Every verb is written in present tense, but has two tense: present infinitive (navneform, infinitiv) and present tense (nutid).
@@ -30,7 +30,7 @@ df = pd.read_csv("wikipedia_spelling_errors.csv", encoding="UTF-8", sep="|")
 <details>
 <summary>danish_ner</summary>
     
-    
+
 - A large danish NER train, test and validation danish can be found [here](https://huggingface.co/datasets/dane/viewer/default)
 - The intention of this is to have another dataset to test NER models. The more datasets avaliable for testing, the easier it is to find tendencies in the models mistakes and get a appropriate accuracy without having to worry about being too impacted by one datasets biases.
 
