@@ -14,7 +14,7 @@ df = pd.read_csv("present_tense.csv", encoding="UTF-8", sep="|")
 </details>
 
 <details>
-<summary>wikipedia_spelling_errors</summary>
+<summary><h3>wikipedia_spelling_errors<h3></summary>
 
 
 - Webscrabed and cleaned from [wikipedia](https://da.wikipedia.org/wiki/Wikipedia:Almindelige_stavefejl)
@@ -28,7 +28,7 @@ df = pd.read_csv("wikipedia_spelling_errors.csv", encoding="UTF-8", sep="|")
 </details>
 
 <details>
-<summary>danish_ner</summary>
+<summary><h3>danish_ner<h3></summary>
     
 
 - A large danish NER train, test and validation danish can be found [here](https://huggingface.co/datasets/dane/viewer/default)
