@@ -12,7 +12,6 @@ Load with:
 df = pd.read_csv("present_tense.csv", encoding="UTF-8", sep="|")
 ```
 </details>
-
 <details>
 <summary><h3>wikipedia_spelling_errors<h3></summary>
 
@@ -26,7 +25,6 @@ df = pd.read_csv("wikipedia_spelling_errors.csv", encoding="UTF-8", sep="|")
 ```
 
 </details>
-
 <details>
 <summary><h3>danish_ner<h3></summary>
     
