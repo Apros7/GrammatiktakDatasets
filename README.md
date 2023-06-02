@@ -21,12 +21,7 @@ I strive to make the datasets:
 ## How to use?
 You are free to use whatever file you want. Here is a description of how they are constructed: 
 - Every file is focused on one specific error in the selected language (currently only danish - we would like to expand this to other nordics languages). 
-- Every file has a wrong version of the sentence on the left and a correct version of the sentence on the right.
-
-## Load a dataset:
-```
-df = pd.read_csv("present_tense.csv", encoding="UTF-8", sep="|")
-```
+- To see more about each file and how to load, look the README in the specific folder.
 
 ## How has the datasets been gathered?
 - Wikipedia
