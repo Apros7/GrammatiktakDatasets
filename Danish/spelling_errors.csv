@@ -1,13 +1,115 @@
 wrong|right
+ Hygiajne|hygiejne
+ abbonement |abonnement
+ abonement|abonnement
+ acelerere|accelerere
+ arengement|arrangement
+ arrengement |arrangement
+ bordaux|bordeaux
+ bordeux |bordeaux
+ boulion |bouillon
+ boullion|bouillon
+ burau|bureau
+ buro |bureau
+ bydget|Budget
+ byget |Budget
+ chaffør |chauffør
+ chuaffør|chauffør
+ diskution|diskussion
+ f.x. |fx // f.eks.
+ feks |fx // f.eks.
+ feks.|fx // f.eks.
+ ingeinør|ingeniør
+ inginør |ingeniør
+ initiv|initiativ
+ interesant |interessant
+ interweiv|interview
+ interwiev |interview
+ intresant |interessant
+ intressant|interessant
+ inu|endnu
+ jvf.|jf.
+ kaptain|kaptajn
+ kaptegn |kaptajn
+ karrussel|karrusel
+ karussel |karrusel
+ konklussion|konklusion
+ nevou |niveau
+ nivau |niveau
+ nivaue|niveau
+ pailetter|pailletter
+ pallietter |pailletter
+ paralel|parallel
+ parrallel |parallel
+ pritering|prioritering
+ profesionel |professionel
+ professionel|professionel
+ resourant |restaurant
+ ressourse|ressource // resurse
+ restaurent|restaurant
+ resurce |ressource // resurse
+ rutschebane|rutsjebane
+ rutshebane |rutsjebane
+ sattellitter|satellitter
+ sekratær|sekretær
+ snaksalig|snakkesalig
+ souvinir|souvenir
+ success|succes
+ teresse|terrasse
+ terresse |terrasse
+ yogurt|yoghurt
+ youghurt |yoghurt
+ yougurt |yoghurt
+ yughurt |yoghurt
+Afganistan|Afghanistan
+Appeninerne|Appenninerne
+Bourgoisi|Bourgeoisi
+Bourgoisie|Bourgeoisi
+Bourgoisiet|Bourgeoisiet
+Cannada|Canada
+Caraibien|Caribien
+Celcius|Celsius
+Danebrog|Dannebrog
+Ethiopien|Etiopien
+Frederikstaden|Frederiksstaden
+Garone|Garonne
+Greenwitch|Greenwich
+Guiness|Guinness
+Guiseppe|Giuseppe
+Illiaden|Iliaden
+Johanitterordenen|Johanniterordenen
+Kanada|Canada
+Konstatinopel|Konstantinopel
+Melanchton|Melanchthon
+Muhammad|Muhammed
+Neksø|Nexø
+Orknøerne|Orkneyøerne
+Padua|Padova
+Pensylvania|Pennsylvania
+Philippinerne|Filippinerne
+Poland|Polen
+Pommeren|Pommern
+Roguefort|Roquefort
+Sachen|Sachsen
+Schweitz|Schweiz
+Scotland|Skotland
+Skagerak|Skagerrak
+Storbritanien|Storbritannien
+Svejts|Schweiz
+Taleban|Taliban
+abbonnement |abonnement
 abonere|abonnere
 absorbtion|absorption
 accelleration|acceleration
 accellerere|accelerere
+accellerere |accelerere
 accellererede|accelererede
 addresse|adresse
 adlen|adelen
 adminstration|administration
-Afganistan|Afghanistan
+af vide|at vide
+afhængelig|afhængig
+afspassere|afspadsere
 agressiv|aggressiv
 akkomodation|akkommodation
 akkomodere|akkommodere
@@ -18,17 +120,19 @@ anmasende|anmassende
 antageligvis|antagelig
 antecipere|anticipere
 appelere|appellere
-Appeninerne|Appenninerne
 apperat|apparat
 apperater|apparater
 apperatet|apparatet
 applomb|aplomb
+arangement |arrangement
 artikelen|artiklen
 artikeler|artikler
 autencitet|autenticitet
 babyloner|babylonier
+barbeque|barbecue
 barrak|barak
 bekræftige|bekræfte
+bekræftigelse|bekræftelse
 betegning|betegnelse
 biblotek|bibliotek
 blæreudslet|blæreudslæt
@@ -55,27 +159,27 @@ bonuser|bonusser
 bonuserne|bonusserne
 bonusernes|bonussernes
 bonusers|bonussers
+bordou |bordeaux
 borgerdydsskole|borgerdydskole
-Bourgoisi|Bourgeoisi
-Bourgoisie|Bourgeoisi
-Bourgoisiet|Bourgeoisiet
 box|boks
+brochurre|brochure
 bronce|bronze
 budet|buddet
 budets|buddets
+buget |Budget
+bulion |bouillon
+byro |bureau
 bærene|bærrene
 bødel|bøddel
-Cannada|Canada
-Caraibien|Caribien
 catamaran|katamaran
-Celcius|Celsius
 cencur|censur
 centaur|kentaur
+chafør |chauffør
+check|tjek
 checke|tjekke
 chlorofyl|klorofyl
 cosmodrom|kosmodrom
 cosmodromen|kosmodromen
-Danebrog|Dannebrog
 danere|daner
 delegat|delegeret
 diamentral|diametral
@@ -85,7 +189,9 @@ diciplin|disciplin
 dicipliner|discipliner
 dilerium|delirium
 dilletant|dilettant
+diskusion |diskussion
 diskution|diskussion
+dyrelæge|dyrlæge
 ederfugl|edderfugl
 efterkommerer|efterkommere
 ekvivalent|ækvivalent
@@ -95,7 +201,6 @@ embalere|emballere
 erhvers|erhvervs
 erimitage|eremitage
 erimitagen|eremitagen
-Ethiopien|Etiopien
 ethiopier|etiopier
 ethiopiere|etiopiere
 ethiopieren|etiopieren
@@ -109,9 +214,9 @@ extrem|ekstrem
 extreme|ekstreme
 extremt|ekstremt
 fagterm|fagudtryk
-faldgruppe|faldgrube
-faldgrubbe|faldgrube
 faldbyde|falbyde
+faldgrubbe|faldgrube
+faldgruppe|faldgrube
 fibere|fibre
 filipinsk|filippinsk
 filosofen|filosoffen
@@ -127,7 +232,8 @@ forgodtbefindene|forgodtbefindende
 fornæmme|fornemme
 fornæmmer|fornemmer
 forpubbe|forpuppe
-Frederikstaden|Frederiksstaden
+forspørgsel|forespørgsel
+forsæt|fortsæt
 fredslutning|fredsslutning
 fredslutningen|fredsslutningen
 fredsløs|fredløs
@@ -137,19 +243,17 @@ friluftsmuseet|frilandsmuseet
 friluftsmuseum|frilandsmuseum
 frådse|fråse
 fugleredder|fuglereder
+fx. |fx // f.eks.
+fælleskab|fællesskab
 förmyndarregering|formynderregering
 garnision|garnison
-Garone|Garonne
 generalogi|genealogi
 geschæft|gesjæft
+gjordt|gjort
 gletcher|gletsjer
 gletscher|gletsjer
-gjordt|gjort
 gramatik|grammatik
-Greenwitch|Greenwich
 grønsværet|grønsværen
-Guiness|Guinness
-Guiseppe|Giuseppe
 gulsmed|guldsmed
 gulsmede|guldsmede
 gulsmeden|guldsmeden
@@ -162,26 +266,36 @@ hjortvildt|hjortevildt
 holdte|holdt
 hovede|hoved
 hovedsaglig|hovedsagelig
-Illiaden|Iliaden
+hygiegne |hygiejne
+i nu |endnu
+ialt|i alt
+idag (igår, imorgen)|i dag (i går, i morgen)
+ihvertfald|i hvert fald
 illyriansk|illyrisk
 illyrianske|illyriske
+incl. (excl.)|inkl. (ekskl.)
 indcheckning|indtjekning
-interesant|interessant
+ingenør |ingeniør
 intererseret|interesseret
+interesant|interessant
 interessentselskab|interessentskab
 interplanetar|interplanetarisk
 interplanetart|interplanetarisk
+interveiw |interview
+intiativ |initiativ
+intrasant |interessant
 jagterminilogi|jagtterminologi
 jagterminoligi|jagtterminologi
 jagterminologi|jagtterminologi
 jagtterminilogi|jagtterminologi
 jagtterminoligi|jagtterminologi
-Johanitterordenen|Johanniterordenen
+jfr. |jf.
 jorskælv|jordskælv
 kalendre|kalendere
-Kanada|Canada
 kanadisk|canadisk
 kanadiske|canadiske
+kaptagn |kaptajn
+karusel |karrusel
 kastanie|kastanje
 kemikalium|kemikalie
 kenetegnet|kendetegnet
@@ -202,8 +316,8 @@ kollosalt|kolossalt
 kommite|komité
 komnikasjonssatlit|kommunikationssatellit
 kompetance|kompetence
+konklution |konklusion
 konspitorisk|konspiratorisk
-Konstatinopel|Konstantinopel
 konstantere|konstatere
 konstanterede|konstaterede
 konstanterer|konstaterer
@@ -238,15 +352,15 @@ læreranstalt|læreanstalt
 læreranstalten|læreanstalten
 læreranstalter|læreanstalter
 mandhjerte|mandshjerte
+massere|masser
 matematikerer|matematikere
+med mindre|medmindre
 medlemsskab|medlemskab
-Melanchton|Melanchthon
 menstrutation|menstruation
 messehaglet|messehagelen
 meteologi|meteorologi
 molekylarvægt|molekylvægt
 molekylarvægten|molekylvægten
-Muhammad|Muhammed
 muhammedansk|muslimsk
 muhammedanske|muslimske
 museumet|museet
@@ -254,17 +368,16 @@ museumets|museets
 mythologi|mytologi
 navnligt|navnlig
 nedstirre|nidstirre
-Neksø|Nexø
 nemligt|nemlig
+nivou |niveau
 nobelprismodtager|nobelpristager
 noglesinde|nogensinde
 novelist|romanforfatter
 onitologer|ornitologer
-Orknøerne|Orkneyøerne
 overbevidst|overbevist
 overbevidste|overbeviste
 overvinte|overvintre
-Padua|Padova
+palietter |pailletter
 paradigma|paradigme
 paradigmaer|paradigmer
 paradigmaet|paradigmet
@@ -272,17 +385,14 @@ parafin|paraffin
 parantes|parentes
 paranteser|parenteser
 parantetisk|parentetisk
+parralel |parallel
 pengvinen|pingvinen
-Pensylvania|Pennsylvania
 periferiske|perifere
-Philippinerne|Filippinerne
 planktonnet|planktonet
 points|point
-Poland|Polen
-Pommeren|Pommern
-postbudet|postbuddet
 postbudde|postbude
 postbuddene|postbudene
+postbudet|postbuddet
 prefiks|præfiks
 prefikser|præfikser
 prefikset|præfikset
@@ -291,56 +401,65 @@ prefixer|præfikser
 prefixet|præfikset
 premiereminister|premierminister
 premiereministre|premierministre
+priotering |prioritering
 priviligeret|privilegeret
 problemmer|problemer
+proffessionel |professionel
 proffessor|professor
 progromer|pogromer
 prositueret|prostitueret
 protokolen|protokollen
 protokoler|protokoller
+provensiel|provinsiel
 præcolombiansk|præcolumbiansk
 psykiatriker|psykiater
-pytagoras|pythagoras
 publikumet|publikummet
-påbudet|påbuddet
+pytagoras|pythagoras
 påbudene|påbuddene
+påbudet|påbuddet
 rarietet|raritet
 rarieteter|rariteter
 rarieteterne|rariteterne
+reflektion|refleksion
 religionsudøvelse|religionsøvelse
-reperere|reparere
 reperation|reparation
-Roguefort|Roquefort
+reperere|reparere
+resource |ressource // resurse
+resuarant |restaurant
 russik|russisk
+rutchebane |rutsjebane
 rutsche|rutsje
 ryggrad|rygrad
 ræsonere|ræsonnere
-Sachen|Sachsen
 sanskrift|sanskrit
 satelit|satellit
 satelitter|satellitter
 sattelit|satellit
+sattelitter |satellitter
 schuft|sjuft
-Schweitz|Schweiz
-Scotland|Skotland
+sekrætær |sekretær
+selvskab|selskab
 sendebudene|sendebuddene
 sendebudenes|sendebuddenes
 sendebudet|sendebuddet
 sendebudets|sendebuddets
 seperabel|separabel
+seperat|separat
 serumsinstitut|seruminstitut
 shampo|shampoo
 silicone|silikone
+sindsygt|sindssygt
 sjete|sjette
-Skagerak|Skagerrak
 skredene|skreddene
 skredenes|skreddenes
 skredet|skreddet
 skredets|skreddets
+sku|sgu
 skudene|skuddene
 skudenes|skuddenes
 skudet|skuddet
 skudets|skuddets
+snaksaglig |snakkesalig
 snedækt|snedækket
 snedækte|snedækkede
 sovjettisk|sovjetisk
@@ -354,6 +473,8 @@ spydet|spyddet
 spydets|spyddets
 spørsmål|spørgsmål
 stadions|stadioner
+standart|standard
+staniol|stanniol
 statusen|statussen
 statusens|statussens
 statuser|statusser
@@ -362,22 +483,24 @@ statusernes|statussernes
 statusers|statussers
 sterefoni|stereofoni
 sterin|stearin
-Storbritanien|Storbritannien
 strukket|strakt
 strukturede|strukturerede
 strøes|strøs
-Svejts|Schweiz
+størrere|større
+suces |succes
+suvenir |souvenir
 svingeninger|svingninger
 syntax|syntaks
 sysselssætte|sysselsætte
 sæsonnen|sæsonen
+tastetur|tastatur
 taxonomi|taksonomi
 taxonomisk|taksonomisk
-the|te
-Taleban|Taliban
 temmeligt|temmelig
+terasse |terrasse
 termometmager|termometermager
 territotale|territoriale
+the|te
 thermisk|termisk
 thermiske|termiske
 tilbudene|tilbuddene
@@ -410,14 +533,17 @@ vermut|vermouth
 vigtigeste|vigtigste
 virkefeldt|virkefelt
 virusser|vira
+våbentilstand|våbenstilstand
 vædske|væske
 vædsken|væsken
 vædskens|væskens
 vædsker|væsker
 vædskerne|væskerne
-våbentilstand|våbenstilstand
+ynglingsfilm|yndlingsfilm
+yugurt |yoghurt
 zealandsk|newzealandsk
 ærende|ærinde
+ærgelig|ærgerlig
 ærkebiskopsæde|ærkebispesæde
 ærkebiskopsædet|ærkebispesædet
 æstimat|estimat

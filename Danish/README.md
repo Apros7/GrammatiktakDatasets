@@ -13,10 +13,10 @@ df = pd.read_csv("present_tense.csv", encoding="UTF-8", sep="|")
 ```
 </details>
 <details>
-<summary><h3>wikipedia_spelling_errors<h3></summary>
+<summary><h3>spelling_errors<h3></summary>
 
 
-- Webscrabed and cleaned from [wikipedia](https://da.wikipedia.org/wiki/Wikipedia:Almindelige_stavefejl)
+- Webscrabed and cleaned from [wikipedia](https://da.wikipedia.org/wiki/Wikipedia:Almindelige_stavefejl) and other errors found in other datasets.
 - As wikipedia descibes, please notice: Not all occurrences of these words may be spelling errors. For instance, if the word is in a song or book title or part of a proper name for a person, city, or company, it should be left as intended by the author. So, think twice before correcting these spelling errors.
 
 Load with:
